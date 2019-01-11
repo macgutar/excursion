@@ -31,3 +31,10 @@ a{
 #brand{
     text-align: right;
 }
+img{
+    text-align: center;  
+    padding-top: 10px;
+}
+video{
+    text-align: center; 
+}
